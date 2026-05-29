@@ -37,8 +37,11 @@ I am a Computer Science student passionate about AI and scalable software system
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishna-sudhakar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-sudhakar&theme=tokyonight&hide_border=true" height="180"/> </p>
 📈 CONTRIBUTION MATRIX
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-sudhakar&theme=react-dark&hide_border=true"/> </p>
-🐍 CONTRIBUTION FLOW
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishna-sudhakar/krishna-sudhakar/output/github-contribution-grid-snake.svg" />
+</p>
 🧩 CODING PERFORMANCE
 <p align="center"> <img src="https://leetcard.jacoblin.cool/krishna-sudhakar?theme=dark&font=Fira%20Code" /> </p>
 🏆 ACHIEVEMENTS
